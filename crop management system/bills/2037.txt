@@ -1,0 +1,18 @@
+	 Welcome
+ Bill Number:2037
+ Customer Name:Abhishek
+ Phone Number:8696879689
+ E-mail:rishinion
+ Date:15 May 2024
+================================================
+ Products			QTY			Price
+================================================Turnips			1			18
+Spinach			1			18
+Broccoli			1			18
+
+================================================
+
+Sub Amount			Rs.70.00
+Tax Amount			Rs.9.36
+Total Amount			Rs.79.36
+===============================================

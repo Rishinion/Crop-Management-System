@@ -1,0 +1,19 @@
+	 Welcome
+ Bill Number:4496
+ Customer Name:dsfsf
+ Phone Number:3553435453
+ E-mail:fsdsdfs
+================================================
+ Products			QTY			Price
+================================================Jasmine			1			18
+Jasmine			14			252
+Jasmine			140			2520
+Jasmine			12			216
+Basmati			12			264
+
+=================================================
+
+Sub Amount			Rs.3288.00
+Tax Amount			Rs.587.88
+Total Amount			Rs.3875.88
+================================================

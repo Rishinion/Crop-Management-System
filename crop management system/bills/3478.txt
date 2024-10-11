@@ -1,0 +1,18 @@
+	 Welcome
+ Bill Number:3478
+ Customer Name:jhkghkkj
+ Phone Number:7777777878
+ E-mail:hkjjgkghjk@mail.com
+ Date:12 July 2024
+================================================
+ Products			QTY			Price
+================================================
+
+Beets			1			14
+
+================================================
+
+Sub Amount			Rs.28.00
+Tax Amount			Rs.2.52
+Total Amount			Rs.30.52
+===============================================

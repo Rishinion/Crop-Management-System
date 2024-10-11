@@ -1,0 +1,15 @@
+	 Welcome
+ Bill Number:2202
+ Customer Name:Abhishek
+ Phone Number:9505968695
+ E-mail:abc@gmail.com
+================================================
+ Products			QTY			Price
+================================================    Beets			3			42
+
+=================================================
+
+Sub Amount			Rs.122.00
+Tax Amount			Rs.19.44
+Total Amount			Rs.141.44
+================================================

@@ -1,0 +1,15 @@
+	 Welcome
+ Bill Number:7996
+ Customer Name:vinit
+ Phone Number:9069689706
+ E-mail:vini@g,aimaksmd
+================================================
+ Products			QTY			Price
+================================================BrownRice			3			174
+
+================================================
+
+Sub Amount			Rs.334.00
+Tax Amount			Rs.49.68
+Total Amount			Rs.383.68
+===============================================

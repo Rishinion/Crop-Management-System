@@ -1,0 +1,19 @@
+	 Welcome
+ Bill Number:8359
+ Customer Name:abhi
+ Phone Number:9686970695
+ E-mail:abc@gmail.com
+ Date:15 May 2024
+================================================
+ Products			QTY			Price
+================================================
+Arborio			1			40
+BrownRice		4			232
+Basmati			6			132
+
+================================================
+
+Sub Amount			Rs.476.00
+Tax Amount			Rs.81.72
+Total Amount			Rs.557.72
+===============================================

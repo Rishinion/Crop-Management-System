@@ -1,0 +1,19 @@
+	 Welcome
+ Bill Number:5112
+ Customer Name:Raj
+ Phone Number:9878967856
+ E-mail:rishi@gmail.com
+ Date:12 July 2024
+================================================
+ Products			QTY			Price
+================================================
+
+Basmati			15			330
+Basmati			25			550
+
+================================================
+
+Sub Amount			Rs.1420.00
+Tax Amount			Rs.251.64
+Total Amount			Rs.1671.64
+===============================================

@@ -1,0 +1,20 @@
+	 Welcome
+ Bill Number:7860
+ Customer Name:Abhishek
+ Phone Number:8789857651
+ E-mail:abhi@gmail.com
+ Date:19 May 2024
+================================================
+ Products			QTY			Price
+================================================
+
+BarleyGrits			10			360
+Basmati			1			22
+Cabbage			4			76
+
+================================================
+
+Sub Amount			Rs.578.00
+Tax Amount			Rs.100.62
+Total Amount			Rs.678.62
+===============================================
